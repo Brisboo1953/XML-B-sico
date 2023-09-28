@@ -1,0 +1,11 @@
+<!DOCTYPE Menu [
+        <!ELEMENT Menu (GofresBelgas|GofresBelgasconFresa|GofresBelgasconFrutasdelBosque|TostadasFrancesa|DesyanodelaCasa)*>
+        <!ELEMENT GofresBelgas (Precio|Descripcion|Calorias)*>
+        <!ELEMENT Precio (#PCDATA)>
+        <!ELEMENT Descripcion (#PCDATA)>
+        <!ELEMENT Calorias (#PCDATA)>
+        <!ELEMENT GofresBelgasconFresa (Precio|Descripcion|Calorias)*>
+        <!ELEMENT GofresBelgasconFrutasdelBosque (Precio|Descripcion|Calorias)*>
+        <!ELEMENT TostadasFrancesa (Precio|Descripcion|Calorias)*>
+        <!ELEMENT DesyanodelaCasa (Precio|Descripcion|Calorias)*>
+        ]>

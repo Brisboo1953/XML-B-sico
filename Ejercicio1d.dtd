@@ -1,0 +1,11 @@
+<!DOCTYPE InformacionPedido [
+        <!ELEMENT InformacionPedido (Destinatario|Articulo|DireccionEntrega|FechaEntrega)*>
+        <!ELEMENT Destinatario (Nombre)*>
+        <!ELEMENT Nombre (#PCDATA)>
+        <!ELEMENT Articulo (#PCDATA)>
+        <!ELEMENT DireccionEntrega (Calle|NumeroDomicilio|Descripcion)*>
+        <!ELEMENT Calle (#PCDATA)>
+        <!ELEMENT NumeroDomicilio (#PCDATA)>
+        <!ELEMENT Descripcion (#PCDATA)>
+        <!ELEMENT FechaEntrega (#PCDATA)>
+        ]>

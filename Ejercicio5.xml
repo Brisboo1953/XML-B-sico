@@ -1,0 +1,109 @@
+<Arboles>
+    <AcerMonspessulanum>
+        <Nombre>
+           Arce de Montpellier, Arce menor
+        </Nombre>
+        <Vegetacion>
+            Caducifolio
+        </Vegetacion>
+        <Altura>
+            De 6 a 10 metros
+        </Altura>
+        <Forma>
+            Copa esferica
+        </Forma>
+        <Estructura>
+            Tronco principal recto con bifucraciones
+            Rama colgante
+        </Estructura>
+        <ColorPrimavera>
+            Haz verde brillante, envés verde blanquecino
+        </ColorPrimavera>
+        <ResistenciaHeladas>
+            Heladas fuertes(hasta-15°C
+        </ResistenciaHeladas>
+    </AcerMonspessulanum>
+
+    <OleaEuropea>
+    <Nombre>
+        Olivo
+    </Nombre>
+    <Vegetacion>
+        Perenne
+    </Vegetacion>
+        <Altura>
+          De 8 a 15 metros
+        </Altura>
+    <Forma>
+        Copa irregular
+    </Forma>
+    <Estructura>
+        Tronco principal irregular con bifucraciones
+    </Estructura>
+    </OleaEuropea>
+
+    <RamajeTortuoso>
+        <ColorPrimavera>
+            Haz verde oscuro, envés verde plateado
+        </ColorPrimavera>
+        <ResistenciaHeladas>
+            Heladas medias(hasta10°C)
+        </ResistenciaHeladas>
+    </RamajeTortuoso>
+
+    <PlatanusOrientalis>
+        <Nombre>
+            Platano
+        </Nombre>
+        <Vegetacion>
+            Caducifolio
+        </Vegetacion>
+        <Altura>
+            De 20 a 25 metros
+        </Altura>
+        <Forma>
+            Copa ovoidal
+        </Forma>
+        <Estructura>
+            Tronco principal recto
+            Ramaje expandido
+        </Estructura>
+        <ColorPrimavera>
+            Haz verde medio, envés verde claro
+        </ColorPrimavera>
+        <ColorOtoño>
+            Ocre
+        </ColorOtoño>
+        <ResistenciasHeladas>
+            Heladas fuertes(hasta -20°C)
+        </ResistenciasHeladas>
+    </PlatanusOrientalis>
+
+    <QuercusIlex>
+        <Nombre>
+            Encina
+        </Nombre>
+        <Vegetacion>
+            Perenne
+        </Vegetacion>
+        <Altura>
+            En torno a 25 metros
+        </Altura>
+        <Froma>
+            Copa esferica
+            Copa elipltixa irregular
+        </Froma>
+        <Estructura>
+            Tronco principal recto
+            Ramaje tortuoso
+        </Estructura>
+        <ColorPrimavera>
+            Plateado en hojas jovenes
+            En hojas antiguas, haz verde oscuro, envés plateado
+        </ColorPrimavera>
+        <ResistenciaHeladas>
+            Heladas fuertes(hasta -15°C)
+        </ResistenciaHeladas>
+    </QuercusIlex>
+
+</Arboles>

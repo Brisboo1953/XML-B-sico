@@ -1,0 +1,18 @@
+<!DOCTYPE Arboles [
+        <!ELEMENT Arboles (AcerMonspessulanum|OleaEuropea|RamajeTortuoso|PlatanusOrientalis|QuercusIlex)*>
+        <!ELEMENT AcerMonspessulanum (Nombre|Vegetacion|Altura|Forma|Estructura|ColorPrimavera|ResistenciaHeladas)*>
+        <!ELEMENT Nombre (#PCDATA)>
+        <!ELEMENT Vegetacion (#PCDATA)>
+        <!ELEMENT Altura (#PCDATA)>
+        <!ELEMENT Forma (#PCDATA)>
+        <!ELEMENT Estructura (#PCDATA)>
+        <!ELEMENT ColorPrimavera (#PCDATA)>
+        <!ELEMENT ResistenciaHeladas (#PCDATA)>
+        <!ELEMENT OleaEuropea (Nombre|Vegetacion|Altura|Forma|Estructura)*>
+        <!ELEMENT RamajeTortuoso (ColorPrimavera|ResistenciaHeladas)*>
+        <!ELEMENT PlatanusOrientalis (Nombre|Vegetacion|Altura|Forma|Estructura|ColorPrimavera|ColorOtoño|ResistenciasHeladas)*>
+        <!ELEMENT ColorOtoño (#PCDATA)>
+        <!ELEMENT ResistenciasHeladas (#PCDATA)>
+        <!ELEMENT QuercusIlex (Nombre|Vegetacion|Altura|Froma|Estructura|ColorPrimavera|ResistenciaHeladas)*>
+        <!ELEMENT Froma (#PCDATA)>
+        ]>

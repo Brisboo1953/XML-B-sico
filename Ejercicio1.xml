@@ -1,0 +1,22 @@
+<InformacionPedido>
+    <Destinatario>
+        <Nombre>
+            Juan Delgado Martinez
+        </Nombre>
+    </Destinatario>
+    <Articulo>
+        Bicicleta Bianchi Oltre
+    </Articulo>
+    <DireccionEntrega>
+        <Calle> Reforma</Calle>
+        <NumeroDomicilio>
+            423
+        </NumeroDomicilio>
+        <Descripcion>
+            Tercer piso, letra A
+        </Descripcion>
+    </DireccionEntrega>
+    <FechaEntrega>
+     19-09-2021
+    </FechaEntrega>
+</InformacionPedido>

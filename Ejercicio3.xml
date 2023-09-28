@@ -1,0 +1,63 @@
+
+<Menu>
+    <GofresBelgas>
+        <Precio>
+            5.95
+        </Precio>
+        <Descripcion>
+            Dos de nuestros famosos Gofres belgas con abundante sirope
+        </Descripcion>
+        <Calorias>
+           650
+        </Calorias>
+    </GofresBelgas>
+
+    <GofresBelgasconFresa>
+        <Precio>
+            7.95
+        </Precio>
+        <Descripcion>
+            Ligeros gofres belgas cubiertos de fresa y nata montada
+        </Descripcion>
+        <Calorias>
+            900
+        </Calorias>
+    </GofresBelgasconFresa>
+
+    <GofresBelgasconFrutasdelBosque>
+        <Precio>
+            8.95
+        </Precio>
+        <Descripcion>
+            Ligeros gofres belgas cubiertos con fruas del bosque y nata montada
+        </Descripcion>
+        <Calorias>
+            900
+        </Calorias>
+    </GofresBelgasconFrutasdelBosque>
+
+    <TostadasFrancesa>
+        <Precio>
+            4.50
+        </Precio>
+        <Descripcion>
+           Dos gruesas rebanadas de nuestro pan frances casero
+        </Descripcion>
+        <Calorias>
+            600
+        </Calorias>
+    </TostadasFrancesa>
+
+    <DesyanodelaCasa>
+        <Precio>
+            6.95
+        </Precio>
+        <Descripcion>
+            Dos huevos, bacon o salchicha, tostada y patatas fritas
+        </Descripcion>
+        <Calorias>
+            950
+        </Calorias>
+    </DesyanodelaCasa>
+
+</Menu>
