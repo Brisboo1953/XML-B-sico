@@ -1,0 +1,8 @@
+<!ELEMENT cdsEnOferta (cd*) >
+<!ELEMENT cd (titulo, artista, pais, compañiaDiscografica, precio, añoDePublicacion) >
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT artista (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT compañiaDiscografica (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT añoDePublicacion (#PCDATA)>
