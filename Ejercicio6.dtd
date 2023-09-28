@@ -1,0 +1,18 @@
+<!ELEMENT businessContactInformation (businessName, streetAddress, cityStateZipCode, email, website, invoiceDetails, DescriptionOfGoodsOrServices+)>
+        <!ELEMENT businessName (#PCDATA)>
+        <!ELEMENT streetAddress (#PCDATA)>
+        <!ELEMENT cityStateZipCode (#PCDATA)>
+        <!ELEMENT email (#PCDATA)>
+        <!ELEMENT website (#PCDATA)>
+
+        <!ELEMENT invoiceDetails (invoiceNumber, date, termsOfPayment)>
+        <!ELEMENT invoiceNumber (#PCDATA)>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT termsOfPayment (#PCDATA)>
+
+        <!ELEMENT DescriptionOfGoodsOrServices (productService, description, city, rate, Amount+)>
+        <!ELEMENT productService (#PCDATA)>
+        <!ELEMENT description (#PCDATA)>
+        <!ELEMENT city (#PCDATA)>
+        <!ELEMENT rate (#PCDATA)>
+        <!ELEMENT Amount (#PCDATA)>

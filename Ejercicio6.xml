@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE businessContactInformation SYSTEM "Ejercicio6.dtd">
+<businessContactInformation>
+    <businessName>Nombre de la empresa</businessName>
+    <streetAddress>Direccion de la calle</streetAddress>
+    <cityStateZipCode>Ciudad, estado y codigo postal</cityStateZipCode>
+    <email>correo electronico</email>
+    <website>sitio web</website>
+    <invoiceDetails>
+        <invoiceNumber>Numero de factura</invoiceNumber>
+        <date>Fecha</date>
+        <termsOfPayment>Terminos del pago</termsOfPayment>
+    </invoiceDetails>
+    <DescriptionOfGoodsOrServices>
+        <productService>Producto o servicio</productService>
+        <description>Descripción del producto o servicio</description>
+        <city>Ciudad</city>
+        <rate>Rate</rate>
+        <Amount>Monto</Amount>
+    </DescriptionOfGoodsOrServices>
+    <DescriptionOfGoodsOrServices>
+        <productService>Un segundo pruducto o servicio</productService>
+        <description>Descripción de segundo producto o servicio</description>
+        <city>Ciudad</city>
+        <rate>Rate</rate>
+        <Amount>Monto</Amount>
+    </DescriptionOfGoodsOrServices>
+</businessContactInformation>
